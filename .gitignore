@@ -1,0 +1,14 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.config
+*.iml
+.env
+
+# generally remove python notebook, but here, I allow them just for web visibility purposes
+# *.ipynb       # can always be converted to .py by cli command --> jupyter nbconvert --to script *.ipynb
+
+# generally remove all .csv or .xls filese, but here, I allowed them for users who would like to do exactly what I did:
+# *.csv
+# *.xsl
